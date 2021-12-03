@@ -1,0 +1,4 @@
+Some fact of height of tree
+ 1-->>there is two way one is edges and one is nodes
+  Edges -->how many edges are there if it is n then height is =h 
+  nodes --- then nodes must be n+1 so in this case height is =H+1
